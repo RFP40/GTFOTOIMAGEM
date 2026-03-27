@@ -1,0 +1,19 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Configuração da página */
+html {
+    font-size: 16px; /* base para rem */
+    scroll-behavior: smooth; /* rolagem suave */
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #ffffff;
+    color: #333;
+}
